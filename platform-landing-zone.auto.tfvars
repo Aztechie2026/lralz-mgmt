@@ -1,4 +1,4 @@
-/*
+/*test
 --- Built-in Replacements ---
 This file contains built-in replacements to avoid repeating the same hard-coded values.
 Replacements are denoted by the dollar-dollar curly braces token (e.g. $${starter_location_01}). The following details each built-in replacements that you can use:
